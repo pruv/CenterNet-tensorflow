@@ -1,0 +1,8 @@
+.idea/*
+*.pyc
+data/*
+data_test/*
+VOC2007/*
+VOC2007_Test/*
+centernet/*
+logs/*
